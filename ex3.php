@@ -28,16 +28,16 @@
     <div>
         <form action="" method="GET">
             <h2>Enter 10 numbers: </h2>
-                <input type="number" step= 0.1 name="n0">
-                <input type="number" step= 0.1 name="n1"> <br>
-                <input type="number" step= 0.1 name="n2">
-                <input type="number" step= 0.1 name="n3"> <br>
-                <input type="number" step= 0.1 name="n4">
-                <input type="number" step= 0.1 name="n5"> <br>
-                <input type="number" step= 0.1 name="n6">
-                <input type="number" step= 0.1 name="n7"> <br>
-                <input type="number" step= 0.1 name="n8">
-                <input type="number" step= 0.1 name="n9"> <br>
+                <input type="number" step= 0.01 name="n0">
+                <input type="number" step= 0.01 name="n1"> <br>
+                <input type="number" step= 0.01 name="n2">
+                <input type="number" step= 0.01 name="n3"> <br>
+                <input type="number" step= 0.01 name="n4">
+                <input type="number" step= 0.01 name="n5"> <br>
+                <input type="number" step= 0.01 name="n6">
+                <input type="number" step= 0.01 name="n7"> <br>
+                <input type="number" step= 0.01 name="n8">
+                <input type="number" step= 0.01 name="n9"> <br>
             <button type="submit">Sumbit</button>
         </form>
     </div>
