@@ -54,10 +54,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET' && isset($_GET['n0'])) {
     $tab = []; 
 
     for ($i = 0; $i < 10; $i++){
-        if (isset($_GET["n".$i])) {
-            $x = $_GET["n".$i];
-            $tab[$i] = $x;
-        }
+        $x = $_GET["n".$i];
+        $tab[$i] = $x;
     }
     
     echo"<br>";
@@ -69,11 +67,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET' && isset($_GET['n0'])) {
     $product = 1;
     
     for ($i = 0; $i < 10; $i++){
-        if (isset($tab[$i])) {
-            $sum += $tab[$i];
-            $product *= $tab[$i];
-        }
+        $sum += $tab[$i];
+        $product *= $tab[$i];
     }
+    
     $average = $sum / 10 ;
     
     echo "<br><br>The sum is " . $sum . " <br><br> The average is " . $average . " <br><br> The product is " . $product ;
