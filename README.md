@@ -7,7 +7,6 @@
 ♡ &nbsp; [ex5](ex5.php) : Creates a form to input 10 numbers and finds the minimum and maximum values using PHP.  
 ♡ &nbsp; [ex6](ex6.php) : Creates a form to input 10 numbers, stores them in an array, and saves the array in a session variable. It then displays another form that allows users to input a number to check if it exists in the array, and displays the result.  
 ♡ &nbsp; [ex7](ex7.php) : Creates a form to input 10 numbers, stores them in an array, and saves the array in a session variable. It then displays another form that allows users to input a number to check the number of occurrences of that number in the array, and displays the result.  
-♡ &nbsp; [ex8](ex8.php) : Creates a form to input the grades of 10 students, stores them in an array, calculates the class average, and counts the number of grades above the average. Displays the grades as an array, the class average, and the number of grades above the average.  
-♡ &nbsp; [ex9](ex9.php) :  
-♡ &nbsp; [ex10](ex10.php) :  
-♡ &nbsp; [ex11](ex11.php) :  
+♡ &nbsp; [ex8](ex8.php) : Creates a form to input the grades of 10 students, stores them in an array, calculates the class average, and counts the number of grades above the average.  Displays the grades as an array, the class average, and the number of grades above the average.  
+♡ &nbsp; [ex9](ex9.php) :  Takes an array, reverses it, and displays both the original and reversed arrays.  
+♡ &nbsp; [ex10](ex10.php) :  Creates a form to input a positive integer and checks if the input number is prime, then displays the result.
